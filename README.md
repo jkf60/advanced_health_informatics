@@ -13,15 +13,15 @@ Hands on experience in building a complete health information sharing in a cloud
 
 In this repository: 
 
-Assignment 1: Abnormal Blood Glucose and Type 2 Diabetes Mellitus Screening	due by 11:59pm
-Assignment 2: Risk factors and COVID-19 outcomes	due by 3:59pm
-Assignment 3: Interface Engine to create an HL7 message	due by 3:59pm
-Assignment 4: Create a Virtual Web Server using gcloud command line.	due by 3:59pm
-Assignment 5: Create custom Virtual Private Cloud in GCP	due by 3:59pm
-Assignment 6: Federated Data Access	due by 3:59pm
-Assignment 7: Transforming Oncology EHR data into the OMOP Common Data Model	due by 11:59pm
-Assignment 8: BigQuery and REDCap API	due by 3:59pm
-Assignment 9: Create Dashboards in Google Charts	due by 11:59pm
-Assignment 10: CMS Data Access with Blue Button using FHIR	due by 3:59pm
-Assignment Assignment 11: Build a Tableau dashboard using SDOH data	due by 3:59pm
+Assignment 1: Abnormal Blood Glucose and Type 2 Diabetes Mellitus Screening
+Assignment 2: Risk factors and COVID-19 outcomes
+Assignment 3: Interface Engine to create an HL7 message
+Assignment 4: Create a Virtual Web Server using gcloud command line
+Assignment 5: Create custom Virtual Private Cloud in GCP
+Assignment 6: Federated Data Access
+Assignment 7: Transforming Oncology EHR data into the OMOP Common Data Model
+Assignment 8: BigQuery and REDCap API
+Assignment 9: Create Dashboards in Google Charts
+Assignment 10: CMS Data Access with Blue Button using FHIR
+Assignment 11: Build a Tableau dashboard using SDOH data
 Final Project
