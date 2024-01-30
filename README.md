@@ -1,27 +1,51 @@
-# advanced_health_informatics
+# Health Informatics
 
-This course provides an advanced overview of Health Informatics and is meant to appeal to any Georgetown HIDS candidate as a core course.  Given the generally high level of Health Informatics field and its important role in the healthcare delivery, it is likely that each of you will have (or may already have had) some notion about informatics, information technologies at some point in your careers.  This course will provide you with a framework to help you advance your understanding of the informatics environment in healthcare, to assess different components of the ecosystem, to develop understanding about each of the major building blocks, and to be able to complete the settings and requirements of technologies enabling health information access, sharing and analysis to improve performance, efficiency and enable a better patient outcome.  This course also provides an understanding of the leadership role in the selection, implementation and management of technologies including computer based decision models to structure information and analyze complex organizational problems. Current and emerging IT applications and technologies such as mobile health, and telemedicine will be analyzed for their influence on cost, quality and access to care; the legal, ethical and regulatory ramifications of these technological advances will also be explored. 
+Overview
 
-Course Objectives:
+This repository contains the comprehensive coursework and final project for the HIDS506 course, focusing on Health Informatics and its application in healthcare delivery. The course and subsequent assignments aimed to enhance understanding and practical skills in various aspects of Health Informatics.
 
-To define and discuss the significance of health informatics within healthcare delivery
-To increase students’ ability to understand and work with Health Informatics concepts, demystify informatics and its different sub-specialties.
-To emphasize the critical importance of data, health information and knowledge in thinking about technical infrastructure and technologies requirements to improve patient health and reduce cost.
-To identify different HIT components, approaches and concepts that support current and emerging healthcare policies, regulations and quality measures.
-To assess the needs and requirements for HIT in patient care settings from a leadership role perspective.
-Hands on experience in building a complete health information sharing in a cloud environment deploying and managing different concepts, tools and methods
+Course Goals
 
-In this repository: 
+a. Understanding Health Informatics: Define and discuss its significance in healthcare.
+b. Demystifying Informatics: Clarify informatics concepts and sub-specialties.
+c. Data and Technology in Healthcare: Emphasize the importance of data and technology infrastructure in improving patient health and reducing costs.
+d. Healthcare Policies and HIT: Explore HIT components and concepts supporting current healthcare policies and regulations.
+e. Leadership in HIT: Assess HIT needs and requirements from a leadership perspective.
+f. Practical Experience: Gain hands-on experience in building health information systems in a cloud environment.
 
-Assignment 1: Abnormal Blood Glucose and Type 2 Diabetes Mellitus Screening
-Assignment 2: Risk factors and COVID-19 outcomes
-Assignment 3: Interface Engine to create an HL7 message
-Assignment 4: Create a Virtual Web Server using gcloud command line
-Assignment 5: Create custom Virtual Private Cloud in GCP
-Assignment 6: Federated Data Access
-Assignment 7: Transforming Oncology EHR data into the OMOP Common Data Model
-Assignment 8: BigQuery and REDCap API
-Assignment 9: Create Dashboards in Google Charts
-Assignment 10: CMS Data Access with Blue Button using FHIR
-Assignment 11: Build a Tableau dashboard using SDOH data
+Assignments
+
+1. Abnormal Blood Glucose & Type 2 Diabetes Screening
+2. Risk Factors and COVID-19 Outcomes
+3. HL7 Message via Interface Engine
+4. Virtual Web Server on Gcloud
+5. Custom Virtual Private Cloud in GCP
+6. Federated Data Access
+7. Transforming Oncology EHR to OMOP CDM
+8. BigQuery and REDCap API
+9. Dashboards in Google Charts
+10. CMS Data Access with Blue Button (FHIR)
+11. Tableau Dashboard with SDOH Data
+
 Final Project
+
+Title: "Augmenting the Accuracy of Emergency Department Triage using Machine Learning: A Multi-Class Classification Model"
+
+Goals:
+
+Enhance the accuracy of patient triage in emergency departments.
+Reduce human bias and optimize resource utilization.
+Data: Utilized the MIMIC-IV-ED dataset with over 2 million observations.
+
+Key Features:
+
+Neural network model for multi-class classification.
+Techniques to address class imbalances.
+Extensive data analysis and feature engineering.
+Graphs and Visualizations: Neural network architecture, accuracy and loss graphs, confusion matrix, classification report.
+
+Repository Structure
+
+Each assignment folder contains respective reports, code, and any additional resources used or created during the coursework. The final project folder includes the detailed report, code, and visualizations demonstrating the outcomes of the study.
+
+
